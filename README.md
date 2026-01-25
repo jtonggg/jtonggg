@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yaw Jia Tong
 
-🤓 I'm a first-year Bachelor of Software Engineering student with a growing passion for building thoughtful, user-centered software.
+🤓 I'm a second-year Bachelor of Software Engineering student with a growing passion for building thoughtful, user-centered software.
 
 - 💻 Interested in software engineering principles and best practices  
 - 🎮 Passionate about game development and interactive media  
